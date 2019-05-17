@@ -1,0 +1,4 @@
+﻿CREATE TABLE [dbo].[Policy]
+(
+	[PolicyId] UNIQUEIDENTIFIER NOT NULL PRIMARY KEY
+)
